@@ -120,9 +120,9 @@
 
     $bioSantri = [
         ["Id" => "001", "Name" => "Will Byers", "Age" => "12", "Aliases" => "Will the Wise", "Status" => "Alive"],
-        ["Id" => "001", "Name" => "Will Byers", "Age" => "12", "Aliases" => "Will the Wise", "Status" => "Alive"],
-        ["Id" => "001", "Name" => "Will Byers", "Age" => "12", "Aliases" => "Will the Wise", "Status" => "Alive"],
-        ["Id" => "001", "Name" => "Will Byers", "Age" => "12", "Aliases" => "Will the Wise", "Status" => "Alive"],
+        ["Id" => "002", "Name" => "Mike Wheeler", "Age" => "12", "Aliases" => "Dugeon Master", "Status" => "Alive"],
+        ["Id" => "003", "Name" => "Jim Hooper", "Age" => "43", "Aliases" => "Chief Hopper", "Status" => "Deceased"],
+        ["Id" => "004", "Name" => "Eleven", "Age" => "12", "Aliases" => "El", "Status" => "Alive"],
     ];
 
     echo "<pre>";
